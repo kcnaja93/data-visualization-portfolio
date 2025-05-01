@@ -33,7 +33,7 @@ I'm continuously improving my skills and expanding my knowledge. Currently, I'm 
 - Big data processing tools
 
 ## Contact & Connect
-- **LinkedIn:** Camila Najarro (www.linkedin.com/in/camila-n-5352031a1)
+- **LinkedIn:** Camila Najarro G (www.linkedin.com/in/camila-n-5352031a1)
 - **Email:** kc.najarro@gmail.com
 
 ## Contributions & Feedback
